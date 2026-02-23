@@ -68,6 +68,6 @@ This project demonstrates:
 The final model can help identify high-probability customers, enabling more targeted and efficient business decision-making.
 
 ## Future Improvements
-1.> Model Optimization: Further performance improvements can be achieved through systematic hyperparameter tuning of the models. 
-2.>Feature Understanding: Deeper analysis of influential features can improve both interpretability and predictive power. Examining feature importance, correlations among top predictors. 
-3.> Business Deployment: The model can be extended toward practical business use by leveraging predicted transaction probabilities to segment customers into likelihood groups This enables data-driven customer targeting and more efficient allocation of marketing resources.
+- Model Optimization: Further performance improvements can be achieved through systematic hyperparameter tuning of the models.
+-Feature Understanding: Deeper analysis of influential features can improve both interpretability and predictive power. Examining feature importance, correlations among top predictors. 
+- Business Deployment: The model can be extended toward practical business use by leveraging predicted transaction probabilities to segment customers into likelihood groups This enables data-driven customer targeting and more efficient allocation of marketing resources.
